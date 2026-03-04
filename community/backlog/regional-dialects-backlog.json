@@ -37,7 +37,7 @@
     "note": "Used for prohibition/failure. (Set 1)",
     "id": 4,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜へん",
@@ -47,7 +47,7 @@
     "note": "Example: 食べへん = 食べない。 (Set 1)",
     "id": 5,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "しばれる",
@@ -177,7 +177,7 @@
     "note": "Okinawan gratitude expression. (Set 1)",
     "id": 18,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜やねん",
@@ -187,7 +187,7 @@
     "note": "Explanatory ending in conversation. (Set 1)",
     "id": 19,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "おおきに",
@@ -197,7 +197,7 @@
     "note": "Traditional gratitude expression. (Set 1)",
     "id": 20,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "ほんま",
@@ -207,7 +207,7 @@
     "note": "Very common in Osaka/Kyoto speech. (Set 2)",
     "id": 21,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なんでやねん",
@@ -217,7 +217,7 @@
     "note": "Classic comedic retort (tsukkomi). (Set 2)",
     "id": 22,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "めっちゃ",
@@ -237,7 +237,7 @@
     "note": "Used for prohibition/failure. (Set 2)",
     "id": 24,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜へん",
@@ -247,7 +247,7 @@
     "note": "Example: 食べへん = 食べない。 (Set 2)",
     "id": 25,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "しばれる",
@@ -257,7 +257,7 @@
     "note": "Used for severe winter cold. (Set 2)",
     "id": 26,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なまら",
@@ -397,7 +397,7 @@
     "note": "Traditional gratitude expression. (Set 2)",
     "id": 40,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "ほんま",
@@ -426,7 +426,7 @@
     "region": "Kansai",
     "note": "Now used nationwide. (Set 3)",
     "id": 43,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
